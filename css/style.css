@@ -3,7 +3,7 @@ body {
   color: #000205;
   height: 80%;
   min-height: 80vh;
-  
+
   display: flex;
   flex-direction: column;
 }
@@ -49,7 +49,7 @@ a {
   padding: 12px 32px;
   margin: 5px;
   border-radius: 15px;
-  background-color: #003262;
+  background-color: #15284B;
   color: #fff;
   display: flex;
   justify-content: center;
@@ -76,7 +76,7 @@ a {
   display: inline-block;
   padding: 10px 28px;
   border-radius: 25px;
-  background-color: #003262;
+  background-color: #15284B;
   color: #fff;
   display: flex;
   justify-content: center;
@@ -105,7 +105,7 @@ nav.navbar.navbar-expand-lg {
 
 .custom_nav-container.navbar-expand-lg .navbar-nav .nav-link {
   padding: 0px 25px;
-  color: #003262;
+  color: #15284B;
   text-align: center;
   text-transform: uppercase;
   font-size: 1.2rem;
@@ -155,7 +155,7 @@ a:focus {
 .navbar-brand:hover {
   font-size: max(30px, 3.0vw);
 
-  color: #003262;
+  color: #15284B;
   font-weight: bold;
   position: relative;
   top: -30px;
@@ -218,14 +218,14 @@ a:focus {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  color: #003262;
+  color: #15284B;
 }
 
 .number-container .number-box hr {
   border: none;
   width: 2px;
   height: 125px;
-  background-color: #003262;
+  background-color: #15284B;
   margin: 35px 0;
 }
 
@@ -240,7 +240,7 @@ a:focus {
   padding: 20px;
   margin-left: 10%;
   /*clip-path: circle(100%);*/
-  overflow: hidden; 
+  overflow: hidden;
   display: block;
   justify-content: center;
   align-items: center;
@@ -249,7 +249,7 @@ a:focus {
 .hero_section-container .hero_img-box img {
   width: 100%;
   height: auto;
-  margin-top: -100px;
+  margin-top: -40px;
 }
 
 .hero_section-container .hero_detail-box {
@@ -272,7 +272,7 @@ a:focus {
   width: 45px;
   height: 45px;
   border-radius: 100%;
-  background-color: #003262;
+  background-color: #15284B;
   opacity: 1;
   background-repeat: no-repeat;
   background-position: center center;
@@ -283,7 +283,7 @@ a:focus {
 
 .carousel-control-prev:hover,
 .carousel-control-next:hover {
-  background-color: #003262;
+  background-color: #15284B;
 }
 
 
@@ -323,7 +323,7 @@ a:focus {
   display: inline-block;
   padding: 12px 32px;
   border-radius: 15px;
-  background-color: #003262;
+  background-color: #15284B;
   color: #fff;
   display: flex;
   justify-content: center;
@@ -355,7 +355,7 @@ a:focus {
 }
 
 .practice_box:hover .practice_img-box {
-  background-color: #003262;
+  background-color: #15284B;
 }
 
 .practice_img-box {
@@ -365,7 +365,7 @@ a:focus {
   width: 225px;
   height: 225px;
   border-radius: 90px;
-  background-color: #003262;
+  background-color: #15284B;
 
 }
 
@@ -386,7 +386,7 @@ a:focus {
 .heading-text {
   padding: 0;
   margin: 0;
-  color: #003262;
+  color: #15284B;
   font-weight: bold;
 }
 
@@ -474,7 +474,7 @@ a:focus {
 
 .teaching_container {
   padding: 30px 0;
-  
+
 }
 
 .teaching_container>* {
@@ -512,7 +512,7 @@ a:focus {
 .contact_section input {
   border: none;
   outline: none;
-  border-bottom: 1px solid #003262;
+  border-bottom: 1px solid #15284B;
   width: 90%;
   margin: 10px 0;
 }
@@ -543,7 +543,7 @@ a:focus {
 
 .contact_section h2 {
   font-size: 26px;
-  color: #003262;
+  color: #15284B;
   font-weight: bold;
 
   position: relative;
@@ -563,7 +563,7 @@ a:focus {
   display: flex;
   flex-shrink: 0;
   margin:-100;
-  
+
 }
 
 .info_section_footer {
@@ -581,7 +581,7 @@ a:focus {
   max-height: 35px;
 }
 .info_logo h2 {
-  color: #003262;
+  color: #15284B;
   font-family: 'Poppins', sans-serif;
   transform: translateY(25%);
 }
@@ -703,7 +703,7 @@ details {
   position: relative;
   overflow: hidden;
   max-height: 80px;
-  
+
 }
 .abstract:target {
   height: auto;
@@ -711,7 +711,7 @@ details {
 
 .toggle{
   padding: 2px;
-  color: #335b81; 
+  color: #335b81;
 }
 
 .toggle:focus ~ .abstract {
